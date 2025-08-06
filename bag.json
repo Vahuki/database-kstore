@@ -1,5 +1,4 @@
-{
-  [
+[
     {
       "id": "1",
       "name": "Túi Xách KStyle Basic",
@@ -64,8 +63,7 @@
       "des": "Thiết kế chuyên nghiệp, phối được với trang phục đi làm.",
       "img": "/img/bag8.avif"
     }
-    
-  ]
-}
+  }
+
 
 
