@@ -1,5 +1,5 @@
 {
-  "bags": [
+  [
     {
       "id": "1",
       "name": "Túi Xách KStyle Basic",
@@ -63,9 +63,7 @@
       "price": 489000,
       "des": "Thiết kế chuyên nghiệp, phối được với trang phục đi làm.",
       "img": "/img/bag8.avif"
-    }
-  ],
-   "shoes": [
+    },
     {
       "id": "9",
       "name": "Giày Sneaker Trắng Basic",
@@ -132,3 +130,4 @@
     }
   ]
 }
+
