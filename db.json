@@ -63,71 +63,9 @@
       "price": 489000,
       "des": "Thiết kế chuyên nghiệp, phối được với trang phục đi làm.",
       "img": "/img/bag8.avif"
-    },
-    {
-      "id": "9",
-      "name": "Giày Sneaker Trắng Basic",
-      "sl": 20,
-      "price": 499000,
-      "des": "Giày sneaker màu trắng dễ phối đồ, chất liệu vải thoáng khí.",
-      "img": "/img/shoes1.avif"
-    },
-    {
-      "id": "10",
-      "name": "Giày Thể Thao Nữ KSport",
-      "sl": 18,
-      "price": 459000,
-      "des": "Kiểu dáng thể thao năng động, đế cao su chống trơn trượt.",
-      "img": "/img/shoes2.avif"
-    },
-    {
-      "id": "11",
-      "name": "Giày Lười Da Lì Mũi Tròn",
-      "sl": 12,
-      "price": 389000,
-      "des": "Thiết kế giày lười tiện dụng, phù hợp đi làm hoặc dạo phố.",
-      "img": "/img/shoes3.avif"
-    },
-    {
-      "id": "12",
-      "name": "Boot Nữ Cổ Ngắn Da Mờ",
-      "sl": 6,
-      "price": 629000,
-      "des": "Boot cổ ngắn cá tính, chất liệu da PU cao cấp, có khóa kéo.",
-      "img": "/img/shoes4.avif"
-    },
-    {
-      "id": "13",
-      "name": "Sandal Quai Ngang Nữ KStyle",
-      "sl": 25,
-      "price": 299000,
-      "des": "Sandal nhẹ, thoáng, phong cách tối giản phù hợp mùa hè.",
-      "img": "/img/shoes5.avif"
-    },
-    {
-      "id": "14",
-      "name": "Giày Cao Gót 5cm Mũi Nhọn",
-      "sl": 10,
-      "price": 479000,
-      "des": "Giày công sở thanh lịch, đế vuông chắc chắn, độ cao 5cm.",
-      "img": "/img/shoes6.avif"
-    },
-    {
-      "id": "15",
-      "name": "Giày Sneaker Hồng Pastel",
-      "sl": 8,
-      "price": 519000,
-      "des": "Tone màu pastel nhẹ nhàng, đệm êm chống sốc tốt.",
-      "img": "/img/shoes7.avif"
-    },
-    {
-      "id": "16",
-      "name": "Boot Cao Cổ Thời Trang",
-      "sl": 5,
-      "price": 689000,
-      "des": "Thiết kế boot cá tính, cao cổ ôm chân, cực chất cho mùa lạnh.",
-      "img": "/img/shoes8.avif"
     }
+    
   ]
 }
+
 
